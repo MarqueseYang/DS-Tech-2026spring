@@ -15,4 +15,4 @@
 | **First / Last Class** | Feb 4 / April 29 |
 | **Teaching Fellow** | Baotong Zhang ([bz2274@stern.nyu.edu](mailto:bz2274@stern.nyu.edu)) |
 | **TF Office** | KMC 8-165 |
-| **TF Office Hours** | Thu 4pm-5pm |
+| **TF Office Hours** | Tues 5pm-6pm and Thu 4pm-5pm |
